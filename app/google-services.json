@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "386530956659",
+    "firebase_url": "https://fatherkinyuaonline-f4963.firebaseio.com",
+    "project_id": "fatherkinyuaonline-f4963",
+    "storage_bucket": "fatherkinyuaonline-f4963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386530956659:android:0867bec06b88675f",
+        "android_client_info": {
+          "package_name": "com.example.kahugu.fatherkinyuaonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386530956659-5aenusm9tl9k4ijvm5m2mqp8rbnmgub8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kahugu.fatherkinyuaonline",
+            "certificate_hash": "2bdaedfb983984b48a5f51458e2944e0dc5f62db"
+          }
+        },
+        {
+          "client_id": "386530956659-rm2avnhjedj7vs5tfm9siu89q5j9ephq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBDxJVYlT_AbUCyKU3JobF0K6U5FGa0yo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386530956659-rm2avnhjedj7vs5tfm9siu89q5j9ephq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
